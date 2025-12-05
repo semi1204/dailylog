@@ -2,7 +2,7 @@ Weekly Note
 
 # 25.12.05
 
--[] Flutter UI 설정
+[x] Flutter UI 설정
 
 ```dart
 Row(
@@ -20,6 +20,8 @@ children: [
   ),
 
 ```
+
+
 
 
 

@@ -2,7 +2,7 @@ Weekly Note
 
 # 25.12.05
 
-[x] Flutter UI 설정
+-[x] Flutter UI 설정
 
 ```dart
 Row(

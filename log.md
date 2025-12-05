@@ -2,9 +2,11 @@ Weekly Note
 
 # 25.12.05
 
-- [x] Flutter UI 설정
-LongPressDrag 구현
+## Flutter 
 
+### UI 변경 로직 
+
+LongPressDrag 구현
 ```dart
 Row(
 crossAxisAlignment: CrossAxisAlignment.center,
